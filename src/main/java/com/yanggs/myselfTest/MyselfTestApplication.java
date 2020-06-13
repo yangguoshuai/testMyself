@@ -17,6 +17,7 @@ public class MyselfTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyselfTestApplication.class, args);
+		System.out.println("=-----------------------------------------");
 	}
 
 }
